@@ -18,9 +18,6 @@ I'm a passionate RPA developer at Gartner, deeply engrossed in the realms of Gen
 ### ✍️ Random Dev Quote
  Give someone a program; you frustrate them for a day; teach them how to program, and you frustrate them for a lifetime – David Leinweber
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Achrajpachauri&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ### 😂 Random Dev Meme
 ![image](https://github.com/Achrajpachauri/Achrajpachauri/assets/127986451/3635a959-0fa9-4aef-b4cd-4b0070df054b)
 

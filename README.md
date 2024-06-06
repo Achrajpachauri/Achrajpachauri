@@ -15,10 +15,10 @@ I'm a passionate AI developer at Gartner, deeply engrossed in the realms of Gene
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AchrajPachauri&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
  Give someone a program; you frustrate them for a day; teach them how to program, and you frustrate them for a lifetime – David Leinweber
 
-### 😂 Random Dev Meme
+### 😂 Dev Meme
 ![image](https://github.com/Achrajpachauri/Achrajpachauri/assets/127986451/3635a959-0fa9-4aef-b4cd-4b0070df054b)
 
 
